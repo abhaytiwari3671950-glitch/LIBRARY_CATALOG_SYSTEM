@@ -20,7 +20,7 @@ On first run, follow the administrator setup screen. Application data is stored 
 - `book.py`, `library.py` — OOP book/catalog models
 - `LibraryFlow.pyw` — GUI-only Python launcher
 - `START_LIBRARYFLOW.vbs` — Windows no-console launcher
-- `LibraryFlow_Original_Icon.ico` — application shortcut icon
+- `LibraryFlow_Original_Icon.ico` — optional desktop shortcut icon (download separately; not included in this source repository)
 - `main.py` — original CLI practical project
 - `test_library.py`, `test_database.py` — unit tests
 
