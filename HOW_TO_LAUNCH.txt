@@ -1,0 +1,10 @@
+LibraryFlow desktop app
+
+1. Install Python 3.11 or newer on Windows with Tkinter.
+2. Double-click START_LIBRARYFLOW.vbs to run with no CMD window.
+3. The launcher searches Python 3.14, 3.13, 3.12 and 3.11 in C:\Program Files.
+4. To debug, run python gui.py in PowerShell.
+5. On first run, create the administrator account.
+6. To apply the original icon to a desktop shortcut, place LibraryFlow_Original_Icon.ico beside the launcher, then use Shortcut Properties > Change Icon.
+
+The custom icon image is distributed separately from the GitHub source repository.
